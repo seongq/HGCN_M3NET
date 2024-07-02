@@ -9,3 +9,4 @@ notebook.ipynb240629_not_center_goreo/
 dataset/
 *.pk
 notebook.ipynb
+train_sequentially.py
